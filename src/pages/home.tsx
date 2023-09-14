@@ -2,7 +2,6 @@ import StarRatings from 'react-star-ratings';
 import '../styles/home.css';
 import solarPanelImage_01 from '../assets/images/solar-panel-01.png';
 import solarPanelImage_02 from '../assets/images/solar-panel-02.png';
-import solarPanelImage_03 from '../assets/images/solar-panel-03.png';
 import houseImage_01 from '../assets/images/house-01.png';
 import houseImage_02 from '../assets/images/house-02.png';
 import houseImage_03 from '../assets/images/house-03.png';
