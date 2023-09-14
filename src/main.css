@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@200;300;400;500;600;700&display=swap');
+
+:root {
+    --primary-text-color: #101010;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    box-sizing: border-box;
+    color: var(--primary-text-color);
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    letter-spacing: 0.2px;
+    margin: 0;
+    padding: 0;
+}
+
+.spacer {
+    flex-grow: 1;
+}
